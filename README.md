@@ -20,6 +20,7 @@ Currently focusing on:
 - **Information Security:** Understanding firewalls and network protocols.
 - **Mathematics:** Working on Partial Differentiation and Laplace equations.
 - **Mobile Apps:** Building basic UI components in Flutter.
+- ++ web development:**building website on real life project.
 
 ---
 
